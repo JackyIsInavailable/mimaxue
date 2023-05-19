@@ -1,11 +1,8 @@
-package sm4test;
+package SM4;
 
 
 import javax.xml.bind.DatatypeConverter;
 import java.nio.ByteBuffer;
-import java.nio.charset.StandardCharsets;
-import java.util.Arrays;
-import java.util.Scanner;
 
 /**
  * SM4
